@@ -1,6 +1,6 @@
 # IBM HR Analytics Employee Attrition & Performance
 
-![]
+![5505471_83](https://github.com/lk2521/IBM_Attrition_Analytics/assets/120410245/fc8e3942-ada0-4066-896d-2491132aa77c)
 
 ## Exploratory Data Analysis, Visualization and Predictive Modelling
 
@@ -15,11 +15,11 @@ This analysis is done in Python, utilizing libraries like Pandas, NumPy, Matplot
 ```Command Prompt
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-### Visualizations
+### Visualizations and Machine Learning Models
 
 This analysis includes a comprehensive set of visualizations to analyze both numerical and categorical variables in the dataset. The visualizations aid in understanding the relationships and distributions within the data. Various plots such as box plots, histograms, bar plots, and heatmaps are utilized.
 
-### Machine Learning Models
+This project includes visualizations generated from the analysis conducted in the IPython Notebook. To view the visualizations and detailed analysis, refer to the [IPython Notebook](IBM_Attrition_Analysis.ipynb) in this repository.
 
 The project evaluates multiple machine learning models to predict employee attrition. The models employed include Logistic Regression, Random Forest Classifier, and Support Vector Machine. Each model is trained, evaluated, and compared based on their performance metrics such as accuracy, precision, recall, and ROC-AUC score.
 
